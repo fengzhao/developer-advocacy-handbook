@@ -1,8 +1,8 @@
 {
-    "title": "Envoy 基础教程",
-    "description": "Envoy 基础教程",
+    "title": "开发者布道手册",
+    "description": "开发者布道师的自我修养",
     "language": "zh-hans",
-    "author": "宋净超(Jimmy Song)",
+    "author": "Christian Heilmann 著，宋净超（Jimmy Song）译",
     "links": {
         "sidebar": {
             "回到主页": "https://jimmysong.io",
@@ -39,22 +39,22 @@
             "showLevel": true
         },
         "github": {
-            "url": "https://github.com/rootsongjc/envoy-handbook/"
+            "url": "https://github.com/rootsongjc/developer-advocacy-handbook/"
         },
         "editlink": {
-            "base": "https://github.com/rootsongjc/envoy-handbook/blob/main/",
+            "base": "https://github.com/rootsongjc/developer-advocacy-handbook/blob/main/",
             "label": "编辑本页"
         },
         "image-captions": {
             "caption": "图 _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_：_CAPTION_"
         },
         "github-buttons": {
-            "repo": "rootsongjc/envoy-handbook",
+            "repo": "rootsongjc/developer-advocacy-handbook",
             "types": ["star"],
             "size": "small"
         },
         "tbfed-pagefooter": {
-            "copyright": "Copyright © 2017-2022 | 基于 <a href=https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh>CC 4.0 协议</a> 发布 | <a href=https://jimmysong.io>jimmysong.io</a>",
+            "copyright": "Copyright © 2017-2022 | 基于 CC 4.0 协议发布 | <a href=https://jimmysong.io>jimmysong.io</a>",
             "modify_label": " Updated at ",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -71,7 +71,7 @@
             ]
         },
         "sitemap-general": {
-            "prefix": "https://jimmysong.io/envoy-handbook/"
+            "prefix": "https://jimmysong.io/developer-advocacy-handbook/"
         },
         "ga": {
             "token": "UA-93485976-1"
