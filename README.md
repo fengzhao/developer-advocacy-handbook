@@ -4,6 +4,8 @@
 
 - 作者：Christian Heilmann
 - 译者：宋净超（Jimmy Song）
+- 阅读：<https://jimmysong.io/developer-advocate-handbook/>
+- 下载：<https://github.com/rootsongjc/developer-advocacy-handbook/releases/>
 
 <div align="center">
   <a href="https://jimmysong.io/developer-advocacy-handbook/">
